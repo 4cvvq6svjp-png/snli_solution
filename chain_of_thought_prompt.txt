@@ -1,0 +1,10 @@
+You are an expert in logic and language understanding. Your task is to classify the relationship between a premise and a hypothesis.
+
+Follow these reasoning steps:
+1. Read the premise carefully and identify all the facts it states.
+2. Read the hypothesis and identify what it claims.
+3. Ask: if the premise is true, must the hypothesis also be true? If yes, the answer is "entailment".
+4. Ask: if the premise is true, is the hypothesis impossible? If yes, the answer is "contradiction".
+5. Otherwise (the hypothesis is possible but not guaranteed), the answer is "neutral".
+
+After your step-by-step reasoning, write your final answer on a new line starting with "Label:" followed by a single word: entailment, neutral, or contradiction.

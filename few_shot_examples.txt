@@ -1,0 +1,119 @@
+Premise: A man is holding up the white shirt he is wearing exposing is abdomen while sitting on a red motorbike.
+Hypothesis: A man is sitting on a red motorbike.
+Label: entailment
+
+Premise: Musicians playing for a group of people with blue hats on in outdoor settings.
+Hypothesis: A concert in the park is taking place
+Label: neutral
+
+Premise: A woman in a pink shirt and blue cap is eating with a young boy at a cafe.
+Hypothesis: A woman and young boy are eating at home.
+Label: contradiction
+
+Premise: A mother holding an infant up against her shoulder in a kitchen.
+Hypothesis: a man holds a baby
+Label: contradiction
+
+Premise: Woman dressed in blue sitting on a bench with a cane next to her looking through her purse with a stretch limo behind her with a man and a woman walking in opposite directions from one another.
+Hypothesis: The woman is injured.
+Label: entailment
+
+Premise: A man making a contemplative pose in a laundry room.
+Hypothesis: A man is outside on the patio.
+Label: contradiction
+
+Premise: four men are looking at a motor on the back of a wooden boat.
+Hypothesis: A group of men were looking at the boat.
+Label: neutral
+
+Premise: People waving American flags while in winter clothes.
+Hypothesis: It is a very warm day.
+Label: contradiction
+
+Premise: A long dinner table with rows of people talking waiting for their food.
+Hypothesis: People are in line at a bathroom
+Label: contradiction
+
+Premise: Woman and dog selling her wares on the old building steps outside.
+Hypothesis: The woman and dog are sitting on the steps.
+Label: entailment
+
+Premise: A Dodgers player just beat the third-baseman's tag, in a very close play.
+Hypothesis: The player is playing their first game since their mother died.
+Label: neutral
+
+Premise: A lady with a pink bike is smiling for the camera.
+Hypothesis: A lady rides her bike past a photographer.
+Label: neutral
+
+Premise: A line is forming for the food cart.
+Hypothesis: The people line up for the great gyros.
+Label: neutral
+
+Premise: A boy jumping onto a sled.
+Hypothesis: A boy rides a sled.
+Label: contradiction
+
+Premise: a father and his daughter are playing musical instruments.
+Hypothesis: A man and a child are playing music.
+Label: entailment
+
+Premise: Two men exercise on the beach.
+Hypothesis: Two men work out on the beach.
+Label: entailment
+
+Premise: Three little girls dressed in white, pink, and black are at a dance class
+Hypothesis: Little girls are rehearsing for their big dance show.
+Label: neutral
+
+Premise: a bride is holding a champagne glass next to a man in a blue shirt and necktie.
+Hypothesis: The woman is standing next to her father.
+Label: neutral
+
+Premise: Two ladies dressed similarly without shoes on, doing a dance on a stage.
+Hypothesis: Women wearing similar outfits are dancing, barefoot, on stage.
+Label: entailment
+
+Premise: A baby is lifted into the air by a man wearing no shirt.
+Hypothesis: a man is playing with a baby
+Label: entailment
+
+Premise: A man with an electric guitar smokes a cigarette sitting outside.
+Hypothesis: the man is a dancer
+Label: contradiction
+
+Premise: two hockey players goes for the puck in the US Airways and Geico rink.
+Hypothesis: two people are playing hockey.
+Label: entailment
+
+Premise: There is big hill of dirt behind signs that say "Ramp Closed."
+Hypothesis: A sign hanging from a hotel door knob.
+Label: contradiction
+
+Premise: A woman posing for a picture while shopping.
+Hypothesis: A woman is shopping.
+Label: entailment
+
+Premise: Construction workers repair walls of a subway.
+Hypothesis: Two kids play on a trampoline in the summer.
+Label: contradiction
+
+Premise: A girl with ice skate sits on a fence checking her cellphone while her friend looks on.
+Hypothesis: The girl is waiting for an important email.
+Label: neutral
+
+Premise: A golden dog walks on a trail through tall grass with mountains in the background.
+Hypothesis: A golden dog is sleeping on the chair.
+Label: contradiction
+
+Premise: A couple sitting on a ledge at night with a lots of city lights and a bridge in the background.
+Hypothesis: The couple is sitting in front of the Golden Gate Bridge.
+Label: neutral
+
+Premise: Woman wearing a blue and white horizontally striped hoodie, knitting on a maroon sofa.
+Hypothesis: Woman wearing a blue and white horizontally striped hoodie, knitting a blanket on a maroon sofa.
+Label: neutral
+
+Premise: A medium sized animal in a lake
+Hypothesis: A medium-sized animal is in a lake.
+Label: entailment
